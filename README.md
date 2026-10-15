@@ -62,6 +62,7 @@ The dashboard supports HR and management teams in the following ways:
 | SQL | Data extraction and querying, where applicable |
 
 8. Dashboard Preview
+<img width="1320" height="747" alt="Screenshot (790)" src="https://github.com/user-attachments/assets/1d7011c4-17c7-46ce-acbe-851b264f1e3c" />
 
 
 
